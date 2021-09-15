@@ -1,0 +1,9 @@
+
+Types Of languages
+    -> Procedural
+            Well structred steps and procedures
+    -> Functional
+
+    -> Object Oreinted
+            Revolves around objects
+            Code + data = object

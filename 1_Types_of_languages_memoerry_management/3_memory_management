@@ -1,0 +1,20 @@
+Stack
+a
+
+Heap 
+10
+
+a=10
+a(ref variable)= 10 (object)
+
+Note: a is pointing to 10
+it mean a is in stack memory and 10 is in heap memory
+
+stack is pointing to heap
+
+
+Note:
+    Many ref variables can points to single object
+    if object is changed it changes for all ref variables
+
+if there is no ref variable for an object it will go to garbage collection

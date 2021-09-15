@@ -1,0 +1,11 @@
+Static
+    type checking at complie time
+    error will show at complie time
+    more control
+ 
+
+
+Dyanmic
+    Dont need to specify the datatype of variables
+    type checking at runtime
+    error might not show till program is run

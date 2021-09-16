@@ -15,6 +15,6 @@ stack is pointing to heap
 
 Note:
     Many ref variables can points to single object
-    if object is changed it changes for all ref variables
+    If object is changed it changes for all ref variables
 
-if there is no ref variable for an object it will go to garbage collection
+If there is no ref variable for an object it will go to garbage collection

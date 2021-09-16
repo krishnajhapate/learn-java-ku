@@ -1,0 +1,12 @@
+start/stop   ->       circle /oval
+◯
+
+input/output ->     parallelogram 
+
+processing   ->     rectangle
+
+condition    ->     rhombus
+
+flow of program -> arrow
+
+

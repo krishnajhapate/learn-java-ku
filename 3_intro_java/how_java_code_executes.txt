@@ -1,0 +1,7 @@
+.java file (human readable)  -> compiler (entire file) -> .classs file(byte code) -> interpreter (line by line) -> machine code (0 and 1)
+
+
+
+this code will not directly run on a system 
+need JVM to run this 
+reason why java is platform independent

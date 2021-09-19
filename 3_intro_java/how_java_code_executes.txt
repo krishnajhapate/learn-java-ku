@@ -5,3 +5,7 @@
 this code will not directly run on a system 
 need JVM to run this 
 reason why java is platform independent
+
+
+More about platform independence
+
